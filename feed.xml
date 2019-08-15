@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>codefarm</title>
+    <title>Design Lounge</title>
     <link href="https://designlounge.github.io/feed.xml" rel="self" />
     <link href="https://designlounge.github.io" />
-    <updated>2019-08-15T12:57:59+05:30</updated>
+    <updated>2019-08-15T13:08:28+05:30</updated>
     <author>
         <name>Praveen K</name>
     </author>
