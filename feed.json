@@ -13,15 +13,15 @@
             "id": "https://designlounge.github.io/design-an-automated-parking-lot.html",
             "url": "https://designlounge.github.io/design-an-automated-parking-lot.html",
             "title": "Design an automated parking lot",
-            "summary": "This is the design of an automated parking lot.",
-            "content_html": "This is the design of an automated parking lot.",
+            "summary": "RequirementsParking lot can be a single floor or multi-floor facility.There are multiple entry/exit points.Vehicles allowed in the parking lot are 2 wheelers(bicycles, motorcycles etc.) and 4 wheelers(car, bus, truck etc.Parking lot has parking spots where vehicles are parked.Parking spots are of fixed sizes. For simplicity, lets assume&hellip;",
+            "content_html": "<h4 id=\"mcetoc_1dia6l1tl0\">Requirements</h4>\n<ol>\n<li>Parking lot can be a single floor or multi-floor facility.</li>\n<li>There are multiple entry/exit points.</li>\n<li>Vehicles allowed in the parking lot are 2 wheelers(bicycles, motorcycles etc.) and 4 wheelers(car, bus, truck etc.</li>\n<li>Parking lot has parking spots where vehicles are parked.</li>\n<li>Parking spots are of fixed sizes. For simplicity, lets assume a car perfectly fits a standard sized parking lot.</li>\n<li>We can park multiple vehicles in a single parking spot. For example, two cycles in the same slot.</li>\n<li>For bigger vehicles like buses and trucks, multiple consecutive spots can be assigned.</li>\n<li>Customers will be assigned a parking ticket at entry and payment has to be done at exit.</li>\n<li>The different payment modes are cash, credit/debit cards, UPI etc.</li>\n<li>Vehicles should be assigned the nearest available spots to the entry point. </li>\n<li>There can be multiple ways of calculating parking fees. For example, flat $5 per hour for every vehicle, $10 for first 2 hours and $20 for every extra hour above 2 hours. </li>\n</ol>",
             "author": {
                 "name": "Praveen K"
             },
             "tags": [
             ],
             "date_published": "2019-08-15T12:49:33+05:30",
-            "date_modified": "2019-08-15T12:57:54+05:30"
+            "date_modified": "2019-08-15T14:58:14+05:30"
         }
     ]
 }
